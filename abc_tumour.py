@@ -1,6 +1,6 @@
 
 import math
-import matplotlib.pyplot as pyplt
+import matplotlib.pyplot as pyplot
 import numpy as np
 def logistic(k, c_0, r, sigma, t):
 	"""Simple model of the evolution of number of cancerous cells with time
